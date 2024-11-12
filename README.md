@@ -29,7 +29,7 @@ To use this chatbot, you'll need to:
 
 ## Install required packages:
 
-pip install langchain langchain-openai pinecone-client python-docx pypdf
+`pip install langchain langchain-openai pinecone-client python-docx pypdf`
 
 Set up your API keys:
 
